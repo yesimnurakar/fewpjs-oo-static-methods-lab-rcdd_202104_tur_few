@@ -27,4 +27,3 @@ static titleize( sentence ) {
 }
 
 }
-
