@@ -1,4 +1,5 @@
-static capitalize( string ) {
+class formater {
+  static capitalize( string ) {
   return string.charAt( 0 ).toUpperCase() + string.slice( 1 )
 }
 
@@ -26,3 +27,4 @@ static titleize( sentence ) {
 }
 
 }
+
